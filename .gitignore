@@ -1,0 +1,11 @@
+*.szplt
+*.dat
+*.log
+.ipynb_checkpoints
+__pycache__
+*.mesh.plt
+*.sol.plt
+*.mesh.szplt
+*.sol.szplt
+*.png
+*.pdf
